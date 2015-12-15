@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.170
+{:name card-mgmt.core, :doc nil, :excludes #{}, :use-macros nil, :require-macros {rum rum.core, rum.core rum.core}, :uses nil, :requires {rum rum.core, rum.core rum.core}, :imports nil}
